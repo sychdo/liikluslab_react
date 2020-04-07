@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/liikluslab_react/precache-manifest.0d2add56ef4e41edc83480d771751062.js"
+  "/liikluslab_react/precache-manifest.1220bd5b74128addc8fdf7b56064090a.js"
 );
 
 self.addEventListener('message', (event) => {

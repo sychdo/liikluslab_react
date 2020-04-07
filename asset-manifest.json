@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/liikluslab_react/static/css/main.5f361e03.chunk.css",
-    "main.js": "/liikluslab_react/static/js/main.7ee9c7b7.chunk.js",
-    "main.js.map": "/liikluslab_react/static/js/main.7ee9c7b7.chunk.js.map",
+    "main.js": "/liikluslab_react/static/js/main.673831eb.chunk.js",
+    "main.js.map": "/liikluslab_react/static/js/main.673831eb.chunk.js.map",
     "runtime-main.js": "/liikluslab_react/static/js/runtime-main.7e0a8dfd.js",
     "runtime-main.js.map": "/liikluslab_react/static/js/runtime-main.7e0a8dfd.js.map",
-    "static/js/2.3d97df43.chunk.js": "/liikluslab_react/static/js/2.3d97df43.chunk.js",
-    "static/js/2.3d97df43.chunk.js.map": "/liikluslab_react/static/js/2.3d97df43.chunk.js.map",
+    "static/js/2.08373870.chunk.js": "/liikluslab_react/static/js/2.08373870.chunk.js",
+    "static/js/2.08373870.chunk.js.map": "/liikluslab_react/static/js/2.08373870.chunk.js.map",
     "index.html": "/liikluslab_react/index.html",
-    "precache-manifest.0d2add56ef4e41edc83480d771751062.js": "/liikluslab_react/precache-manifest.0d2add56ef4e41edc83480d771751062.js",
+    "precache-manifest.1220bd5b74128addc8fdf7b56064090a.js": "/liikluslab_react/precache-manifest.1220bd5b74128addc8fdf7b56064090a.js",
     "service-worker.js": "/liikluslab_react/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/liikluslab_react/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.3d97df43.chunk.js.LICENSE.txt": "/liikluslab_react/static/js/2.3d97df43.chunk.js.LICENSE.txt",
+    "static/js/2.08373870.chunk.js.LICENSE.txt": "/liikluslab_react/static/js/2.08373870.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/liikluslab_react/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7e0a8dfd.js",
-    "static/js/2.3d97df43.chunk.js",
+    "static/js/2.08373870.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.7ee9c7b7.chunk.js"
+    "static/js/main.673831eb.chunk.js"
   ]
 }
