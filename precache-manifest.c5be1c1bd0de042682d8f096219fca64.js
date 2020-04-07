@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ade2603a6814b60ba2b4d62f6ba38b3",
+    "revision": "609c1ce3ff7d9653500769f1715da835",
     "url": "/liikluslab_react/index.html"
   },
   {
-    "revision": "1ae3cc86973186059f9a",
+    "revision": "31bf7882d32a0e99c3f6",
     "url": "/liikluslab_react/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,15 +16,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/liikluslab_react/static/js/2.08373870.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1ae3cc86973186059f9a",
-    "url": "/liikluslab_react/static/js/main.673831eb.chunk.js"
+    "revision": "31bf7882d32a0e99c3f6",
+    "url": "/liikluslab_react/static/js/main.85942fdf.chunk.js"
   },
   {
     "revision": "2fbe5c992cbf33405220",
     "url": "/liikluslab_react/static/js/runtime-main.7e0a8dfd.js"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/liikluslab_react/static/media/logo.5d5d9eef.svg"
   }
 ]);
