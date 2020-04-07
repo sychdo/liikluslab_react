@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "609c1ce3ff7d9653500769f1715da835",
+    "revision": "3120fa7cfcae5da1580398a12dbfbdcd",
     "url": "/liikluslab_react/index.html"
   },
   {
-    "revision": "31bf7882d32a0e99c3f6",
+    "revision": "9be9d0dbbb4ed331eb43",
     "url": "/liikluslab_react/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/liikluslab_react/static/js/2.08373870.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "31bf7882d32a0e99c3f6",
-    "url": "/liikluslab_react/static/js/main.85942fdf.chunk.js"
+    "revision": "9be9d0dbbb4ed331eb43",
+    "url": "/liikluslab_react/static/js/main.9de7fcf4.chunk.js"
   },
   {
     "revision": "2fbe5c992cbf33405220",
