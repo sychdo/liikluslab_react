@@ -1,5 +1,4 @@
 import React from 'react';
-import { useRouteMatch, Redirect } from 'react-router-dom';
 
 import LocaleContext from './../../behavior/contexts/localeContext';
 import localeService from '../../behavior/services/localeService';

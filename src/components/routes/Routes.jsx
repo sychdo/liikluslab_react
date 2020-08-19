@@ -2,10 +2,9 @@ import React from 'react';
 import { Route, useRouteMatch, Switch } from 'react-router-dom';
 import Home from './../pages/Home';
 import NotFound from './../pages/NotFound';
-import { defaultLocale } from '../../config/constants';
 
 export default function Routes(props) {
-  const { path, url } = useRouteMatch();
+  const { path } = useRouteMatch();
 
   return (
     <>
